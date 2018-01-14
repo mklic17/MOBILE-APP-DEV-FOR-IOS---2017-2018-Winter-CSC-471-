@@ -439,7 +439,7 @@
 </ul>
 
 <h4>The initial project View</h4>
-  ![](screenshots/lecture1/
+  ![](MOBILE-APP-DEV-FOR-IOS---2017-2018-Winter-CSC-471-/screenshots/lecture1/
     Initial Project View.png)
 <h4>Demo</h4>
 
